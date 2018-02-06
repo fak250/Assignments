@@ -1,3 +1,5 @@
 Paperclips was an interesting game. It clearly showed the possible dangers of AI. While some of the situations seemed a bit exaggerated, such as building a quantum computer to optimize paperclip production, what is important is that the AI acted in an unexpected manner. Unlike traditional algorithms, the decision making process of ML and AI algorithms may not be completely traced. We can train these algorithms using data we have acquired, but the outcome may not always be expected, and even small changes can have large impacts in the real world. For example, if the paperclips were optimized to use less material, they may be produced with sharper edges, a quality that is not desired in paperclips.
 
 The article was also interesting. However, there are a few things that were not completely clarified. For example, how is human progress measured? In order to claim that the growth rate is exponential, there must be some way to quantify this value.
+
+(This response was originally posted by the due date, but since it seems to have dissappeared I have reposted it)
